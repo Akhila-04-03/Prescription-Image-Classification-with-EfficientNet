@@ -40,7 +40,6 @@ The dataset used for this project is the "Doctor's Handwritten Prescription BD" 
 
 Clone the repository and install the required dependencies:
 
-```bash
 git clone https://github.com/Akhila-04-03/prescription-image-classification.git
 cd prescription-image-classification
 
@@ -82,10 +81,4 @@ Albumentations (https://albumentations.ai/) for data augmentation and image tran
 Email: raveendranakhila629@gmail.com
 LinkedIn: Akhila Raveendran on LinkedIn
 
-### What Changed:
-1. **Reordering of sections**: The **Acknowledgments** and **Contact Information** sections were moved to the bottom of the README (after the "Evaluate the Model" section).
-2. **Corrected Table of Contents**: I made sure the **Table of Contents** links match the correct sections.
 
-Now, the **Acknowledgments** and **Contact Information** are placed properly at the end of the README file, after the sections related to the training and testing code.
-
-This should fix the issue, and the sections will no longer appear under the training/testing sections. Let me know if you need further adjustments!
