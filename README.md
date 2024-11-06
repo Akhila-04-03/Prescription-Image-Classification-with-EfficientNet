@@ -9,8 +9,6 @@ This project focuses on building a deep learning model to classify images of pre
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
-- [Results](#results)
-- [Resources](#resources)
 - [Acknowledgments](#acknowledgments)
 - [Contact Information](#contact-information)
 
@@ -72,3 +70,22 @@ python train.py
 python test.py
 ----
 
+
+### Acknowledgments
+EfficientNet for its powerful transfer learning capabilities.
+Kaggle for providing the dataset: "Doctor's Handwritten Prescription BD Dataset".
+PyTorch (https://pytorch.org/) for deep learning frameworks.
+Torchvision (https://pytorch.org/vision/stable/index.html) for image processing.
+Albumentations (https://albumentations.ai/) for data augmentation and image transformations.
+
+## Contact Information
+Email: raveendranakhila629@gmail.com
+LinkedIn: Akhila Raveendran on LinkedIn
+
+### What Changed:
+1. **Reordering of sections**: The **Acknowledgments** and **Contact Information** sections were moved to the bottom of the README (after the "Evaluate the Model" section).
+2. **Corrected Table of Contents**: I made sure the **Table of Contents** links match the correct sections.
+
+Now, the **Acknowledgments** and **Contact Information** are placed properly at the end of the README file, after the sections related to the training and testing code.
+
+This should fix the issue, and the sections will no longer appear under the training/testing sections. Let me know if you need further adjustments!
