@@ -23,9 +23,10 @@ The objective was to train a prescription word classification model with an Effi
 Clone the repository and install the required dependencies.
 
 git clone https://github.com/Akhila-04-03/prescription-image-classification.git
+
 cd prescription-image-classification
 
-Install dependencies:
+##Install dependencies:
 
 pip install torch torchvision albumentations pandas pillow tqdm
 
@@ -38,7 +39,9 @@ Evaluate Model: After training, you can test the model on the test set by runnin
 
 python test.py
 # Contact Information
+
 Email: raveendranakhila629@gmail.com
+
 LinkedIn: Akhila Raveendran on LinkedIn
 
 
